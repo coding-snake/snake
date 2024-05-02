@@ -20,7 +20,7 @@ This project's goal is the implementation of the classical Snake game
 
 This project was developed with the use of Visual Studio 2022, for more information please check the license on their [official website](https://visualstudio.microsoft.com/license-terms/vs2022-ga-community/)
 
-This project utilizes the Simple DirectMedia Layer (SDL) library, which is licensed under the Zlib license. Please see the [LICENSE](./LICENSE_SDL.md) file for more details.
+This project utilizes the Simple DirectMedia Layer (SDL) library, which is licensed under the Zlib license. You can view the license [here](https://github.com/libsdl-org/SDL/blob/main/LICENSE.txt)
 
 ## 3. How to use
 
