@@ -25,8 +25,9 @@ This project utilizes the Simple DirectMedia Layer (SDL) library, which is licen
 ## 3. How to use
 
 1. Compile the program with a C++ compiler
-2. Run the executable file
-3. Play
+2. Put the executable file inside `/bin` file
+3. Run the executable file
+4. Play
 
 ## 4. Controls
 
