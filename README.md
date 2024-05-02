@@ -24,7 +24,7 @@ This project utilizes the Simple DirectMedia Layer (SDL) library, which is licen
 
 ## 3. How to use
 
-1. Compile the program with a C++ compiler
+1. Compile the program with Visual Studio 2022
 2. Put the executable file inside `/bin` file
 3. Run the executable file
 4. Play
